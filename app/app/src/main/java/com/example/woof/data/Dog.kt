@@ -17,8 +17,7 @@ package com.example.woof.data
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
-import com.example.compilaappsfabulosas.R
-
+import com.example.woof.R
 
 /**
  * A data class to represent the information presented in the dog card
